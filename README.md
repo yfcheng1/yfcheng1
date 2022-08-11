@@ -2,10 +2,6 @@
   Hello World, I'm Yufang (she/her)
 </h1>
 
-<h3 align='center'>
-  A full stack software engineer in Philly, PA
-</h3>
-
 <p align="center">
     <a href="mailto:yufang.cheng1@gmail.com"><img height="25" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </a>
@@ -13,6 +9,10 @@
     <img height="25" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+- :woman_technologist: I am a fullstack software engineer currently living in Philly, PA. I love my cat Yam :cat2:.
+- 🔭 Background: I graduated from the University of Texas at Austin :metal:. I worked as a structural engineer for a couple years and I discovered my passion for coding. I like to see things to be built in reality and I love how coding brings my idea come through. 
+- 📫 How to reach me: yufang.cheng1@gmail.com
 
 <h3>Languages</h3>
 <p>

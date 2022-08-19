@@ -70,7 +70,7 @@
 
 <p align = "center">
   <img alt="GHstats" src="https://github-readme-stats.vercel.app/api?username=yfcheng1&show_icons=true"/>
-<!--   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfcheng1&layout=compact"/> -->
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfcheng1&layout=compact"/>
 </p>
 
 

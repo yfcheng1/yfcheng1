@@ -68,7 +68,7 @@
   <img height="25" alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=white" />
 </p>
 
-<p align = "center">
+<p>
   <img alt="GHstats" src="https://github-readme-stats.vercel.app/api?username=yfcheng1&show_icons=true"/>
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfcheng1&layout=compact"/>
 </p>

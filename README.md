@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- :woman_technologist: I am a fullstack software engineer currently living in Philly, PA. I love my cat Yam :cat2:.
+- :woman_technologist: I am a fullstack software engineer currently living in Philly, PA. I love my cats Yam & Shine :cat2: :cat2:.
 - 🔭 Background: I graduated from the University of Texas at Austin :metal:. I worked as a structural engineer for a couple years and I discovered my passion for coding. I like to see things to be built in reality and I love how coding brings my idea come through. 
 - 📫 How to reach me: yufang.cheng1@gmail.com
 
